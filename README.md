@@ -9,3 +9,4 @@ Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney, 
 * [Chapter 5: Getting Started with Pandas](Chapter5/Chapter5.ipynb)
 * [Chapter 6: Data Loading, Storage, and File Formats](Chapter6/Chapter6.ipynb)
 * [Chapter 7: Data Cleaning and Preparation](Chapter7/Chapter7.ipynb)
+* [Chapter 8: Data Wrangling: Join, Combine, and Reshape](Chapter8/Chapter8.ipynb)
