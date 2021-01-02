@@ -15,3 +15,4 @@ Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney, 
 * [Chapter 11: Time Series](Chapter11/Chapter11.ipynb)
 * [Chapter 12: Advanced Pandas](Chapter12/Chapter12.ipynb)
 * [Chapter 13: Introduction to Modeling Libraries in Python](Chapter13/Chapter13.ipynb)
+* [Chapter 14: Data Analysis Examples](Chapter14/Chapter14.ipynb)
